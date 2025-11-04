@@ -15,14 +15,14 @@ msgstr ""
 
 #. module: web_editor_media_dialog_dms
 #. odoo-javascript
-#: code:addons/web_editor_media_dialog_dms/static/src/media_dialog/dms_selector.xml:0
+#: code:addons/web_editor_media_dialog_dms/static/src/media_dialog/dms_selector.xml
 #, python-format
 msgid "All DMS files have been loaded"
 msgstr "Sve DMS datoteke su učitane"
 
 #. module: web_editor_media_dialog_dms
 #. odoo-javascript
-#: code:addons/web_editor_media_dialog_dms/static/src/media_dialog/dms_selector.xml:0
+#: code:addons/web_editor_media_dialog_dms/static/src/media_dialog/dms_selector.xml
 #, python-format
 msgid "Allow open to public users"
 msgstr "Dozvoli otvaranje javnim korisnicima"
@@ -39,28 +39,28 @@ msgstr "Model pomoćnika za streaming datoteka za kontrolere"
 
 #. module: web_editor_media_dialog_dms
 #. odoo-python
-#: code:addons/web_editor_media_dialog_dms/models/dms_file.py:0
+#: code:addons/web_editor_media_dialog_dms/models/dms_file.py
 #, python-format
 msgid "Invalid access token"
 msgstr "Nevaljan pristupni token"
 
 #. module: web_editor_media_dialog_dms
 #. odoo-javascript
-#: code:addons/web_editor_media_dialog_dms/static/src/media_dialog/dms_selector.xml:0
+#: code:addons/web_editor_media_dialog_dms/static/src/media_dialog/dms_selector.xml
 #, python-format
 msgid "Load more..."
 msgstr "Učitaj više..."
 
 #. module: web_editor_media_dialog_dms
 #. odoo-javascript
-#: code:addons/web_editor_media_dialog_dms/static/src/media_dialog/dms_selector.xml:0
+#: code:addons/web_editor_media_dialog_dms/static/src/media_dialog/dms_selector.xml
 #, python-format
 msgid "No DMS files found."
 msgstr "Nijedna DMS datoteka nije pronađena."
 
 #. module: web_editor_media_dialog_dms
 #. odoo-javascript
-#: code:addons/web_editor_media_dialog_dms/static/src/media_dialog/dms_selector.esm.js:0
+#: code:addons/web_editor_media_dialog_dms/static/src/media_dialog/dms_selector.esm.js
 #, python-format
 msgid "Search a dms file"
 msgstr "Pretraži dms datoteku"

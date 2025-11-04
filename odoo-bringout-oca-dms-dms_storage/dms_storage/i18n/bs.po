@@ -25,13 +25,11 @@ msgstr "Tip spremanja"
 
 #. module: dms_storage
 #: model:ir.model,name:dms_storage.model_dms_storage
-#: model:ir.model.fields.selection,name:dms_storage.selection__dms_storage__save_type__storage
 msgid "Storage"
 msgstr "Skladište"
 
 #. module: dms_storage
 #: model:ir.model.fields,field_description:dms_storage.field_dms_file__storage_backend_id
-#: model:ir.model.fields,field_description:dms_storage.field_dms_storage__storage_backend_id
 msgid "Storage Backend"
 msgstr "Pozadina skladišta"
 
@@ -47,3 +45,6 @@ msgid ""
 "        system. If you change this setting, you can migrate existing files\n"
 "        manually by triggering the action."
 msgstr ""
+"Tip spremanja se koristi za određivanje kako sistem sprema datoteku. Ako "
+"promijenite ovu postavku, možete migrirati postojeće datoteke ručno "
+"pokretanjem akcije."

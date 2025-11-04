@@ -40,7 +40,6 @@ msgstr "DMS je javno dostupan na profilu zaposlenika"
 
 #. module: hr_dms_field
 #: model_terms:ir.ui.view,arch_db:hr_dms_field.hr_employee_public_view_form
-#: model_terms:ir.ui.view,arch_db:hr_dms_field.view_employee_form
 msgid "Documents"
 msgstr "Dokumenti"
 

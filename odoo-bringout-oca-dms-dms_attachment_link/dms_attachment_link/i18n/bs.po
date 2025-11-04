@@ -20,7 +20,7 @@ msgstr "Dodaj"
 
 #. module: dms_attachment_link
 #. odoo-javascript
-#: code:addons/dms_attachment_link/static/src/xml/chatter.xml:0
+#: code:addons/dms_attachment_link/static/src/xml/chatter.xml
 #, python-format
 msgid "Add DMS File"
 msgstr "Dodaj DMS datoteku"
