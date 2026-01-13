@@ -46,7 +46,7 @@ msgstr "Klasifikuj"
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__company_id
 msgid "Company"
-msgstr "Preduzeće"
+msgstr "Kompanija"
 
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__create_uid
@@ -126,17 +126,17 @@ msgstr "ID"
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena na"
 
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__write_uid
 msgid "Last Updated by"
-msgstr "Zadnji ažurirao"
+msgstr "Zadnje ažuriranje izvršio"
 
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažurirano"
+msgstr "Zadnje ažuriranje na"
 
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__name

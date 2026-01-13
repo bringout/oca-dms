@@ -61,7 +61,7 @@ msgstr "Automatski generisana grupa iz %(model)s (%(name)s) #%(id)s"
 #. module: dms_field
 #: model:ir.model.fields,field_description:dms_field.field_dms_access_group__company_id
 msgid "Company"
-msgstr "Preduzeće"
+msgstr "Kompanija"
 
 #. module: dms_field
 #: model:ir.model,name:dms_field.model_res_partner
@@ -202,17 +202,17 @@ msgstr "ID"
 #. module: dms_field
 #: model:ir.model.fields,field_description:dms_field.field_dms_field_template____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena na"
 
 #. module: dms_field
 #: model:ir.model.fields,field_description:dms_field.field_dms_field_template__write_uid
 msgid "Last Updated by"
-msgstr "Zadnji ažurirao"
+msgstr "Zadnje ažuriranje izvršio"
 
 #. module: dms_field
 #: model:ir.model.fields,field_description:dms_field.field_dms_field_template__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažurirano"
+msgstr "Zadnje ažuriranje na"
 
 #. module: dms_field
 #: model:ir.model,name:dms_field.model_dms_field_mixin
