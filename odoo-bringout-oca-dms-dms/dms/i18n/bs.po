@@ -471,7 +471,7 @@ msgstr "Računovodstvo"
 #. module: dms
 #: model:ir.model.fields,field_description:dms.field_dms_directory__message_needaction
 msgid "Action Needed"
-msgstr "Potrebna radnja"
+msgstr "Potrebna akcija"
 
 #. module: dms
 #: model_terms:ir.ui.view,arch_db:dms.view_dms_directory_kanban
@@ -491,7 +491,7 @@ msgstr "Aktivnosti"
 #. module: dms
 #: model:ir.model.fields,field_description:dms.field_dms_directory__activity_exception_decoration
 msgid "Activity Exception Decoration"
-msgstr "Dekoracija izuzetka aktivnosti"
+msgstr "Dekoracija iznimke aktivnosti"
 
 #. module: dms
 #: model:ir.model.fields,field_description:dms.field_dms_directory__activity_state
@@ -697,7 +697,7 @@ msgstr "Kompanije"
 #. module: dms
 #: model:ir.model.fields,field_description:dms.field_abstract_dms_mixin__company_id
 msgid "Company"
-msgstr "Kompanija"
+msgstr "Preduzeće"
 
 #. module: dms
 #: model:ir.model.fields,field_description:dms.field_dms_directory__complete_group_ids
@@ -717,7 +717,7 @@ msgstr "Kompletni direktoriji"
 #. module: dms
 #: model:ir.model,name:dms.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke konfiguracije"
+msgstr "Postavke"
 
 #. module: dms
 #: model:ir.ui.menu,name:dms.cat_menu_dms_config
@@ -997,7 +997,7 @@ msgstr "Stanje uvođenja skladišta dokumenata"
 #. module: dms
 #: model:ir.model.fields.selection,name:dms.selection__res_company__documents_onboarding_directory_state__done
 msgid "Done"
-msgstr "Dovršeno"
+msgstr "Gotovo"
 
 #. module: dms
 #: model_terms:ir.ui.view,arch_db:dms.view_dms_directory_kanban
@@ -1088,12 +1088,12 @@ msgstr "Skladište datoteka"
 #. module: dms
 #: model:ir.model.fields,field_description:dms.field_dms_directory__message_follower_ids
 msgid "Followers"
-msgstr "Pratitelji"
+msgstr "Pratioci"
 
 #. module: dms
 #: model:ir.model.fields,field_description:dms.field_dms_directory__message_partner_ids
 msgid "Followers (Partners)"
-msgstr "Pratitelji (partneri)"
+msgstr "Pratioci (Partneri)"
 
 #. module: dms
 #: model:ir.model.fields,help:dms.field_dms_directory__activity_type_icon
@@ -1113,7 +1113,7 @@ msgstr "Grupa"
 #. module: dms
 #: model_terms:ir.ui.view,arch_db:dms.search_dms_directory
 msgid "Group By"
-msgstr "Grupiši po..."
+msgstr "Grupiši po"
 
 #. module: dms
 #: model:ir.model.fields,field_description:dms.field_dms_access_group__name
@@ -1345,17 +1345,17 @@ msgstr "Upravo gotovo"
 #. module: dms
 #: model:ir.model.fields,field_description:dms.field_dms_access_group____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena na"
+msgstr "Zadnje mijenjano"
 
 #. module: dms
 #: model:ir.model.fields,field_description:dms.field_dms_access_group__write_uid
 msgid "Last Updated by"
-msgstr "Zadnje ažuriranje izvršio"
+msgstr "Zadnji ažurirao"
 
 #. module: dms
 #: model:ir.model.fields,field_description:dms.field_dms_access_group__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažuriranje na"
+msgstr "Zadnje ažurirano"
 
 #. module: dms
 #: model_terms:ir.ui.view,arch_db:dms.portal_my_dms
@@ -1427,7 +1427,7 @@ msgstr "Greška pri isporuci poruke"
 #. module: dms
 #: model:ir.model.fields,field_description:dms.field_dms_directory__message_ids
 msgid "Messages"
-msgstr "Nepročitane poruke"
+msgstr "Poruke"
 
 #. module: dms
 #: model_terms:ir.ui.view,arch_db:dms.view_dms_directory_form
@@ -1722,7 +1722,7 @@ msgstr "Pregled"
 #. module: dms
 #: model:dms.tag,name:dms.tag_10_demo
 msgid "Product"
-msgstr "Proizvod"
+msgstr "Artikal"
 
 #. module: dms
 #: model:dms.tag,name:dms.tag_03_demo
@@ -2137,7 +2137,7 @@ msgstr "Pogledi"
 #. module: dms
 #: model:ir.model.fields,field_description:dms.field_dms_directory__website_message_ids
 msgid "Website Messages"
-msgstr "Nepročitane poruke"
+msgstr "Poruke sa website-a"
 
 #. module: dms
 #: model:ir.model.fields,help:dms.field_dms_directory__website_message_ids
