@@ -46,7 +46,7 @@ msgstr "Klasifikuj"
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__company_id
 msgid "Company"
-msgstr "Preduzeće"
+msgstr "Kompanija"
 
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__create_uid
@@ -81,7 +81,7 @@ msgstr "Uzorak direktorija"
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__display_name
 msgid "Display Name"
-msgstr "Prikazani naziv"
+msgstr "Naziv za prikaz"
 
 #. module: dms_auto_classification
 #: model:ir.model,name:dms_auto_classification.model_dms_classification_template
@@ -91,7 +91,7 @@ msgstr "DMS šablon klasifikacije"
 #. module: dms_auto_classification
 #: model:ir.model.fields.selection,name:dms_auto_classification.selection__wizard_dms_classification__state__draft
 msgid "Draft"
-msgstr "U pripremi"
+msgstr "Nacrt"
 
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_wizard_dms_classification__data_file
@@ -126,7 +126,7 @@ msgstr "ID"
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template____last_update
 msgid "Last Modified on"
-msgstr "Zadnje mijenjano"
+msgstr "Zadnja izmjena"
 
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__write_uid
@@ -141,11 +141,11 @@ msgstr "Zadnje ažurirano"
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__name
 msgid "Name"
-msgstr "Naziv:"
+msgstr "Naziv"
 
 #. module: dms_auto_classification
 #. odoo-python
-#: code:addons/dms_auto_classification/wizards/wizard_dms_classification.py
+#: code:addons/dms_auto_classification/wizards/wizard_dms_classification.py:0
 #, python-format
 msgid "Only .zip files are allowed"
 msgstr "Samo .zip datoteke su dozvoljene"
@@ -153,12 +153,12 @@ msgstr "Samo .zip datoteke su dozvoljene"
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_wizard_dms_classification_detail__parent_id
 msgid "Parent"
-msgstr "Nasljeđeni"
+msgstr "Nadređeno"
 
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__sequence
 msgid "Sequence"
-msgstr "Sekvenca"
+msgstr "Redoslijed"
 
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_wizard_dms_classification__state

@@ -36,4 +36,4 @@ msgstr "Svi za Account DMS"
 #. module: account_dms_field
 #: model:ir.model,name:account_dms_field.model_account_move
 msgid "Journal Entry"
-msgstr "Žurnal"
+msgstr "Stavka dnevnika"
