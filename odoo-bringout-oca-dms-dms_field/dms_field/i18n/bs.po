@@ -146,7 +146,7 @@ msgstr "Format naziva direktorija"
 #. module: dms_field
 #: model:ir.model.fields,field_description:dms_field.field_dms_field_template__display_name
 msgid "Display Name"
-msgstr "Naziv za prikaz"
+msgstr "Naziv prikaza"
 
 #. module: dms_field
 #: model:ir.model,name:dms_field.model_dms_field_template
@@ -202,17 +202,17 @@ msgstr "ID"
 #. module: dms_field
 #: model:ir.model.fields,field_description:dms_field.field_dms_field_template____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena"
+msgstr "Zadnji put izmijenjeno"
 
 #. module: dms_field
 #: model:ir.model.fields,field_description:dms_field.field_dms_field_template__write_uid
 msgid "Last Updated by"
-msgstr "Zadnji ažurirao"
+msgstr "Zadnji put ažurirao"
 
 #. module: dms_field
 #: model:ir.model.fields,field_description:dms_field.field_dms_field_template__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažurirano"
+msgstr "Zadnji put ažurirano"
 
 #. module: dms_field
 #: model:ir.model,name:dms_field.model_dms_field_mixin
@@ -367,7 +367,7 @@ msgstr "Korisničko polje"
 #. module: dms_field
 #: model:ir.model,name:dms_field.model_ir_ui_view
 msgid "View"
-msgstr "Pregled"
+msgstr "Prikaz"
 
 #. module: dms_field
 #: model:ir.model.fields,field_description:dms_field.field_ir_actions_act_window_view__view_mode

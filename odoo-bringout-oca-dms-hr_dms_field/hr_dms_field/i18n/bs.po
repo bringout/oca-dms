@@ -26,7 +26,7 @@ msgstr "Obični zaposlenik"
 #. module: hr_dms_field
 #: model:ir.model,name:hr_dms_field.model_res_config_settings
 msgid "Config Settings"
-msgstr "Postavke"
+msgstr "Postavke konfiguracije"
 
 #. module: hr_dms_field
 #: model:ir.model.fields,field_description:hr_dms_field.field_hr_employee_base__dms_directory_ids

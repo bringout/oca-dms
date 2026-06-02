@@ -26,7 +26,7 @@ msgstr "Automatska klasifikacija"
 #. module: dms_auto_classification
 #: model_terms:ir.ui.view,arch_db:dms_auto_classification.view_wizard_dms_classification_form
 msgid "Cancel"
-msgstr "Otkaži"
+msgstr "Odustani"
 
 #. module: dms_auto_classification
 #: model:ir.actions.act_window,name:dms_auto_classification.action_dms_classification_template
@@ -81,7 +81,7 @@ msgstr "Uzorak direktorija"
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__display_name
 msgid "Display Name"
-msgstr "Naziv za prikaz"
+msgstr "Naziv prikaza"
 
 #. module: dms_auto_classification
 #: model:ir.model,name:dms_auto_classification.model_dms_classification_template
@@ -126,17 +126,17 @@ msgstr "ID"
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template____last_update
 msgid "Last Modified on"
-msgstr "Zadnja izmjena"
+msgstr "Zadnji put izmijenjeno"
 
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__write_uid
 msgid "Last Updated by"
-msgstr "Zadnji ažurirao"
+msgstr "Zadnji put ažurirao"
 
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__write_date
 msgid "Last Updated on"
-msgstr "Zadnje ažurirano"
+msgstr "Zadnji put ažurirano"
 
 #. module: dms_auto_classification
 #: model:ir.model.fields,field_description:dms_auto_classification.field_dms_classification_template__name
